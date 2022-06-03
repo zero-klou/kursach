@@ -1,0 +1,22 @@
+<resources>
+	<string name="app_name">Kursach</string>
+	<string name="second_name">Фамилия</string>
+	<string name="number">Номер телефона</string>
+	<string name="delete_realtor">Удалить риелтора</string>
+	<string name="delete_treaty">Удалить сделку</string>
+	<string name="run">Выполнить</string>
+	<string name="sum">Сумма сделок</string>
+	<string name="sum2">Сумма сделки</string>
+	<string name="save">Сохранить изменения</string>
+	<string name="saveAgency">Сохранить агенство</string>
+	<string-array name="names">
+		<item>Глухов</item>
+		<item>Бадаев</item>
+		<item>Васильева</item>
+	</string-array>
+	<string-array name="treaties">
+		<item>Глухов - 20000</item>
+		<item>Бадаев - 35000</item>
+		<item>Васильева - 50000</item>
+	</string-array>
+</resources>
